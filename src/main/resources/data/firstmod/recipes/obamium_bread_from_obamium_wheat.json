@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "firstmod:obamium_wheat_item"
+    }
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "item": "firstmod:obamium_bread"
+  }
+}

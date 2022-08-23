@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "lit=true": {"model": "firstmod:block/obamium_lamp_on"},
+    "lit=false": {"model":  "firstmod:block/obamium_lamp_off"}
+  }
+}

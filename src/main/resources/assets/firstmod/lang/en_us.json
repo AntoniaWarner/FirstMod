@@ -1,4 +1,7 @@
 {
   "item.firstmod.obamium_ingot": "Obamium Ingot",
-  "block.firstmod.obamium_block": "Block of Obamium"
+  "block.firstmod.obamium_block": "Block of Obamium",
+  "block.firstmod.obamium_ore": "Obamium Ore",
+  "block.firstmod.deepslate_obamium_ore": "Deepslate Obamium Ore",
+  "item.firstmod.eight_ball": "Eight Ball"
 }
